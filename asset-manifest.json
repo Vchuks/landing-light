@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/landing-light/static/css/main.47ba07ca.css",
+    "main.js": "/landing-light/static/js/main.6990f813.js",
+    "static/js/787.5139c0cb.chunk.js": "/landing-light/static/js/787.5139c0cb.chunk.js",
+    "static/media/wave.png": "/landing-light/static/media/wave.9a5cc0b910950b9d5184.png",
+    "static/media/chip.png": "/landing-light/static/media/chip.5be2dffff604c417dce9.png",
+    "index.html": "/landing-light/index.html",
+    "main.47ba07ca.css.map": "/landing-light/static/css/main.47ba07ca.css.map",
+    "main.6990f813.js.map": "/landing-light/static/js/main.6990f813.js.map",
+    "787.5139c0cb.chunk.js.map": "/landing-light/static/js/787.5139c0cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47ba07ca.css",
+    "static/js/main.6990f813.js"
+  ]
+}
